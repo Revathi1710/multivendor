@@ -1,0 +1,14 @@
+.productDetails{
+    background-color: white;
+}
+.productrow{
+          padding:30px;
+}
+.sellerDetails{
+    background: #ebebeb;
+    padding: 20px;
+    text-align: left;
+}
+.productOverview{
+    text-align:left;
+}
